@@ -1,6 +1,6 @@
 {
   "name": "debug-log",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Node.js 0.12 util.debuglog() ponyfill",
   "license": "MIT",
   "repository": "sindresorhus/debug-log",
