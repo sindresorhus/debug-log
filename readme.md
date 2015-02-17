@@ -1,6 +1,6 @@
 # debug-log [![Build Status](https://travis-ci.org/sindresorhus/debug-log.svg?branch=master)](https://travis-ci.org/sindresorhus/debug-log)
 
-> Node.js 0.12 [`util.debuglog()`](http://nodejs.org/docs/v0.11.15/api/util.html#util_util_debuglog_section) ponyfill
+> Node.js 0.12 [`util.debuglog()`](http://nodejs.org/api/util.html#util_util_debuglog_section) ponyfill
 
 > Ponyfill: A polyfill that doesn't overwrite the native method
 
@@ -34,7 +34,7 @@ FOO 3245: unicorns & rainbows
 
 ## API
 
-See the [`util.debuglog()` docs](http://nodejs.org/docs/v0.11.15/api/util.html#util_util_debuglog_section).
+See the [`util.debuglog()` docs](http://nodejs.org/api/util.html#util_util_debuglog_section).
 
 
 ## License
